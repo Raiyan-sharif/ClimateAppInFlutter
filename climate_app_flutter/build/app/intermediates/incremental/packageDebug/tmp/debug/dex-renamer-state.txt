@@ -1,0 +1,4 @@
+#Wed Apr 07 12:16:18 BDT 2021
+base.0=/Users/raiyansharif/Documents/Flutter Project/ClimateAppInFlutter/climate_app_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

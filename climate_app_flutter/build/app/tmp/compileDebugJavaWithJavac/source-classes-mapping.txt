@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/makelifesimple/climate_app_flutter/BuildConfig.java
+ com.makelifesimple.climate_app_flutter.BuildConfig
