@@ -41,9 +41,9 @@ com/baseflow/geolocator/StreamHandlerImpl.java
  com.baseflow.geolocator.StreamHandlerImpl
 com/baseflow/geolocator/location/FlutterLocationServiceListener.java
  com.baseflow.geolocator.location.FlutterLocationServiceListener
-com/baseflow/geolocator/utils/Utils.java
- com.baseflow.geolocator.utils.Utils
 com/baseflow/geolocator/GeolocatorPlugin.java
  com.baseflow.geolocator.GeolocatorPlugin
+com/baseflow/geolocator/utils/Utils.java
+ com.baseflow.geolocator.utils.Utils
 com/baseflow/geolocator/permission/PermissionResultCallback.java
  com.baseflow.geolocator.permission.PermissionResultCallback
